@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#43a55d"/>
+
+  <!-- Clock center -->
+  <circle cx="50" cy="50" r="4.5" fill="#eeeeee"/>
+
+  <!-- Hour hand -->
+  <line x1="50" y1="50" x2="50" y2="15"
+        stroke="#f5ec41" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Minute hand -->
+  <line x1="50" y1="50" x2="85" y2="50"
+        stroke="#fc6132" stroke-width="5" stroke-linecap="round"/>
+</svg>
